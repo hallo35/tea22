@@ -13,6 +13,7 @@ git add -p
 git restore --staged: entfernen 
 git log --oneline, exit q
 git push -u origin solution-001
+git switch -c : erstellt und wechselt branch
 
 ## Terminal Kommandos
 ls: listing
