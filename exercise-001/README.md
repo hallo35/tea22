@@ -7,9 +7,10 @@ git branch -a: Anzeigen des aktuellen Branch
 git checkout -b: neuen Branch erstellen
 git fetch --all
 git add: Änderungen zu staging area
-git commit
+git commit -m
 git remote -v: Anzeigen der verbunden Remote Repositories
 git add -p
+git restore --staged: entfernen 
 
 ## Terminal Kommandos
 ls: listing
