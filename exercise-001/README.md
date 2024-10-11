@@ -11,6 +11,8 @@ git commit -m
 git remote -v: Anzeigen der verbunden Remote Repositories
 git add -p
 git restore --staged: entfernen 
+git log --oneline, exit q
+git push -u origin solution-001
 
 ## Terminal Kommandos
 ls: listing
