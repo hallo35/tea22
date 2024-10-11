@@ -1,5 +1,19 @@
 # Aufgabenstellung
 
+## Git Kommandos
+
+git status
+git branch -a: Anzeigen des aktuellen Branch
+git checkout -b: neuen Branch erstellen
+git fetch --all
+git add: Änderungen zu staging area
+git commit
+git remote -v: Anzeigen der verbunden Remote Repositories
+git add -p
+
+## Terminal Kommandos
+ls: listing
+
 ## Parameterraum
 
 Ändern Sie die Vorlage so ab, dass Sie einen Parameter ``count`` mittels Kommandozeile ``-c,--count`` übergeben können. Falls kein Parameter angegeben wird, so ist der Standardwert mit 20 festzusetzen.
